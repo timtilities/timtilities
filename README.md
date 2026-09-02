@@ -1,6 +1,6 @@
 # Christmas Ornaments
 
-[![Christmas Ornaments](media/hero-snowman.jpg)](https://github.com/timtilities/ChristmasOrnaments)
+[![Christmas Ornaments](media/hero-snowman.jpg)](https://github.com/ChristmasOrnaments/))
 
 # Electronics
 
